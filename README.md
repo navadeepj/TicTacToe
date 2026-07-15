@@ -46,11 +46,7 @@ Tic-Tac-Toe/
 
 ## ⚙️ How to Run
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/navadeepj/TicTacToe.git
-```
+1. Download or clone the repository.
 
 2. Open the project folder.
 
